@@ -1,5 +1,5 @@
 ## Description
-Contains Python templates of Apriori Algorithm and Eclat Algorithm for solving association rule problems and constructing different recommender systems
+Contains Python templates of Upper Confidence Bound and Thompson Sampling algorithms aimed to solve Multi-armed Bandit Problems for Reinforcement Learning
 
 ## Python Upper Confidence Bound/Thompson Sampling Template
   - templates created by modifying after the demo code provided by [SuperDataScience Team](https://www.superdatascience.com/)
