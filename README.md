@@ -1,7 +1,12 @@
 ## Description
 Contains Python templates of Upper Confidence Bound and Thompson Sampling algorithms aimed to solve Multi-armed Bandit Problems for Reinforcement Learning
 
-## Python Upper Confidence Bound/Thompson Sampling Template
+## Python Epsilon Greedy/Gaussian Epsilon Greedy Algorithms Template
+  - simulate and solve a basic multi-armed bandit problems
+    - Epsilon Greedy for Bernoulli models
+    - Gaussian Epsilon Greedy for Gaussian models
+
+## Python Upper Confidence Bound/Thompson Sampling Algorithms Template
   - templates created by modifying after the demo code provided by [SuperDataScience Team](https://www.superdatascience.com/)
   - both aims to resolve multi-armed bandits problem
     - UCB creates a distribution of estimations of the most optimal choice of item from a deterministic approach after a certain number of training samples provided
