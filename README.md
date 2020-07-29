@@ -1,6 +1,11 @@
 ## Description
 Contains Python templates of Upper Confidence Bound and Thompson Sampling algorithms aimed to solve Multi-armed Bandit Problems for Reinforcement Learning
   - different solutions towards exploration and exploitation
+  
+## RL_Tutorial
+- a handcrafted Reinforcement Learning tutorial mixed with theories and practical code implementations
+  - serve as an introduction or review of RL for beginners and intermediate level students
+  - read first!
 
 ## Epsilon Greedy/Gaussian Epsilon Greedy Algorithms Template
   - simulate and solve a basic multi-armed bandit problems
